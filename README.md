@@ -1,2 +1,4 @@
 # hello-world
-Beginging of GitHub
+Begining of GitHub
+
+Fun thing!!
